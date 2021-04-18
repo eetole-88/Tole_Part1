@@ -5,7 +5,7 @@ body{
     align-items:stretch;
     text-decoration: none;
     @media 
-     {min-width: 100px;
+     {min-width: 768px;
         
     }
 }
@@ -19,7 +19,7 @@ body{
     
 }
 #top:hover{
-    color: #7944e6;
+    color: #10fdff;
 }
 #logo{
     float: left;
@@ -42,12 +42,12 @@ ul#horizontal_list{
 a{
     text-decoration: none;
     font-family: "Bungee";
-    color: black;
+    color: #7944e6;
     font-size: 36px;
 
 }
 a:hover{
-    color:#7944e6
+    color:#10fdff;
 
 }
 #pink{ 
